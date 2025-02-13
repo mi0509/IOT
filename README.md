@@ -1,5 +1,6 @@
 # Smart Parking Tracker
-![Uploading WhatsApp Image 2025-02-13 at 22.03.17.jpeg…]()
+![WhatsApp Image 2025-02-13 at 22 03 17](https://github.com/user-attachments/assets/894fc264-7b7e-4b75-8e96-a046cfc80366)
+
 
 
 ## Project Overview
